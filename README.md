@@ -33,7 +33,7 @@ wsl
 
 ___
 
-Linux Live Installation
+## 🐧 Linux Live Installation
 
 Step 1: Plug in the USB and detect its path
 ```bash
